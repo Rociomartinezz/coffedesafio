@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    color: #000f08;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+.oscuro {
+    background: #000f08;
+    color: #ffffff;
+   
+}
+
+.oscuro a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.sweet-brown {
+    text-align: left;
+    background: #a4452c;
+    color: #ffffff;
+    padding: 50px;
+    white-space: nowrap;
+}
+
+.hero-section {
+    text-align: right;
+    background-image: url('../img/bg-hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 50px 50px 250px 50px;
+    margin-top: -16px;
+}
+
+section, footer {
+    margin-top: 75px;
+}
+
+footer {
+    padding: 50px;
+}
+
+.charla-speaker, .charla-texto, .evento {
+    display: inline-block;
+}
+
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.charla-speaker {
+    width: 20%;
+    vertical-align: middle;
+}
+
+.charla-texto {
+    width: 72.5%;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1em;
+    margin-bottom: 1em;
+    vertical-align: middle;
+   
+}
+
+.icono {
+    width: 2em;
+    color: white;
+    vertical-align: left;
+   
+}
+
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+}
+
+.hoja2 {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 305px;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+}
+.oscuro img{
+    filter: invert(100%);
+}
+header{
+    margin-top: 0%;
+}
+*{
+    margin-top: 0%;
+}
+header ul{
+    padding-bottom: 15px;
+    padding-top: 16px;
+    text-align: left;
+}
+.charla-texto{
+    padding-left: 2em;
+    font-weight: bold;
+}
+
+.text-simposio{
+    text-align: justify;
+    width: 78%;
+    padding-left: 6em;
+}
+.hoja2 h1{
+    text-align: left;
+    padding-left: 3em;
+}
+
